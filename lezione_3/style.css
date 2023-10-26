@@ -1,0 +1,48 @@
+body{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+header{
+    width: max-content;
+    text-align: center;
+}
+hr{
+    border-color: yellow;
+}
+#logo{
+    height: 50px;
+    width: 150px;
+    padding-left: 250px;
+    align-items: center;
+}
+#scritta{
+    color: rgb(0, 121, 99);
+    font-style: black 900 italic;
+    padding-left: 250px;
+}
+h1{
+    padding-left: 250px;
+    margin: 0;
+}
+#sez{
+    width: max-content;
+}
+#descrizione{
+    padding-left: 250px;
+    color: grey;
+    font-style: serif;
+}
+#sotto-t{
+    color: peru;
+    margin: 0;
+}
+a{
+    color: rgb(43, 133, 133);
+}
+h3,h2{
+    font-style: black 900 italic;
+}
+p{
+    font-style: inherit;
+}
